@@ -16,11 +16,11 @@ body{
 }
 
 main{
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    width : 100%;
+    min-height : 100vh;
+    display : flex;
+    flex-direction : column;
+    justify-content : center;
     align-items: center;
     background-color: black;
     background: url('../assets/background_image.jpg');
@@ -28,7 +28,7 @@ main{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-lign-items: center;
+    lign-items: center;
     justify-content: space-around;
   
 }
