@@ -21,7 +21,7 @@ const questions = [
     },
 
     {
-        question: "Da chi fu realizzata la lounge Chair?",
+        question: "Da chi fu realizzata la Lounge Chair?",
         optionA: "Charles e Ray Eames",
         optionB: "Frank Gehry",
         correctOption: "optionA"
@@ -35,7 +35,7 @@ const questions = [
     },
 
     {
-        question: "A che animale si ispira la elephant chair?",
+        question: "A che animale si ispira la Elephant Chair?",
         optionA: "Elefante",
         optionB: "Ippopotamo",
         correctOption: "optionA"
@@ -56,7 +56,7 @@ const questions = [
     },
 
     {
-        question: "Il colore giallo nella Elephant chair richiama?",
+        question: "Il colore giallo nella Elephant Chair richiama?",
         optionA: "La gioia e la giocosità",
         optionB: "La Natura e animali",
         correctOption: "optionA"
@@ -70,7 +70,7 @@ const questions = [
     },
 
     {
-        question: "L'Organic Chair è stata ideizzata per quali ambianti?",
+        question: "L'Organic Chair è stata creata per quali ambienti?",
         optionA: "Sala da conferenza",
         optionB: "Ambienti esterni",
         correctOption: "optionA"
@@ -78,7 +78,7 @@ const questions = [
 
     {
         question: "La tecnica di saldatura utilizzata per la Wire Chair è la stessa...",
-        optionA: "Della tour Eiffel",
+        optionA: "Della Tour Eiffel",
         optionB: "Dei gioielli",
         correctOption: "optionA"
     },
@@ -92,7 +92,7 @@ const questions = [
     },
 
     {
-        question: "Qual è un elemento caratteristico di Vitra ?",
+        question: "Qual è un elemento caratteristico di Vitra?",
         optionA: "L'uso dei colori",
         optionB: "L'uso dei materiali",
         correctOption: "optionA"
@@ -114,8 +114,8 @@ const questions = [
 
     {
         question: "La Cone Chair da un senso di?",
-        optionA: "giocosità e armonia",
-        optionB: "vitalità e movimento",
+        optionA: "Giocosità e armonia",
+        optionB: "Vitalità e movimento",
         correctOption: "optionA"
     },
 
@@ -134,9 +134,9 @@ const questions = [
     },
 
     {
-        question: "Quali ambienti presenta Vitra al pubblico?",
-        optionA: "Campus, Home, Design Museum",
-        optionB: "Campus, Design Museum",
+        question: "Il designer della Coconut Chair paragona la seduta ad un segmento di cocco diviso in quante parti?",
+        optionA: "8",
+        optionB: "6",
         correctOption: "optionA"
     },
 
@@ -149,13 +149,13 @@ const questions = [
 
     {
         question: "Cos è Eames House Bird ?",
-        optionA: "Elemento decorativo ",
-        optionB: "Sedia ",
+        optionA: "Elemento decorativo",
+        optionB: "Sedia",
         correctOption: "optionA"
     },
 
     {
-        question: "Panton Chair richiama la natura ergo si ispira a ?",
+        question: "Panton Chair richiama la natura ergo si ispira a?",
         optionA: "Art Nouveau",
         optionB: "Cubismo",
         correctOption: "optionA"
